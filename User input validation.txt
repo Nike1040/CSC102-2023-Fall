@@ -1,0 +1,43 @@
+User input validation
+Submit Video Confirmation Discussion
+Fill in first name/last name and Zip code
+Comment ever line of code for validation of understanding
+
+VS CODE
+strings.html file
+stringCode.js
+
+<!DOCTYPE html>
+<html lang="en">\
+<!--This is for week 3 of CSC102
+We will make a input of validation form and a pallindrome checker
+Robert Hernandez
+RHERNANDEZ85879@UAT.EDU
+OCT23,2023
+
+
+
+
+
+
+
+
+STRINGCODE.JS
+FUNCTION CHECKCREDS(){
+	//INPUT VALIDATION FOR WEEK 3
+	CONSOLE.LOG("CHECKCREDS() STARTED");
+	DOCUMENT.GETELEMENTBYID("LOGINSTATUS").INNERHTML = "STATUS OF LOGIN";
+	//VARIABLES WE NEED
+	VAR FIRSTNAME;
+	VAR LASTNAME;
+	VAR ZIPCODE;
+	VAR FULLNAME;
+	VAR FULLNAMELENGTH;
+
+	//FILL IN THE VARIABLES
+	//WORKING ON INPUTTING FIRST NAME
+FIRSTNAME = DOCUMENT.GETELEMENTBY ID("FNAME").VALUE
+	CONSOLE.LOG("THE FIRST NAME WAS INPUTED AS " + FIRSTNAME);
+
+	LASTNAME = DOCUMENT.GETELEMENTBYID("LNAME").VALUE
+
